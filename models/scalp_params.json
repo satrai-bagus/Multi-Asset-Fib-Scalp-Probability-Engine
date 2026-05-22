@@ -1,0 +1,488 @@
+{
+  "AAVEUSDT": {
+    "tp1": 1.61,
+    "tp2": 3.6,
+    "sl": 1.27,
+    "min_conf": 0.5,
+    "min_body_pct": 0.003,
+    "metrics": {
+      "trades": 1186,
+      "winrate_pct": 53.0,
+      "total_return_pct": 678.08,
+      "max_drawdown_pct": -6.28,
+      "avg_pl_pct": 0.176,
+      "calmar": 108.02,
+      "score": 2084.47
+    },
+    "runner_up": {
+      "tp1": 1.61,
+      "tp2": 3.6,
+      "sl": 1.27,
+      "min_conf": 0.55,
+      "min_body_pct": 0.003,
+      "total_return_pct": 678.08,
+      "score": 2084.47
+    },
+    "n_combos_tested": 144,
+    "n_valid_configs": 105
+  },
+  "APTUSDT": {
+    "tp1": 1.61,
+    "tp2": 3.6,
+    "sl": 1.27,
+    "min_conf": 0.5,
+    "min_body_pct": 0.003,
+    "metrics": {
+      "trades": 1309,
+      "winrate_pct": 48.7,
+      "total_return_pct": 524.5,
+      "max_drawdown_pct": -7.46,
+      "avg_pl_pct": 0.143,
+      "calmar": 70.31,
+      "score": 1634.83
+    },
+    "runner_up": {
+      "tp1": 1.61,
+      "tp2": 3.6,
+      "sl": 1.27,
+      "min_conf": 0.55,
+      "min_body_pct": 0.003,
+      "total_return_pct": 524.5,
+      "score": 1634.83
+    },
+    "n_combos_tested": 144,
+    "n_valid_configs": 42
+  },
+  "ARBUSDT": {
+    "tp1": 1.61,
+    "tp2": 3.6,
+    "sl": 1.27,
+    "min_conf": 0.5,
+    "min_body_pct": 0.003,
+    "metrics": {
+      "trades": 1312,
+      "winrate_pct": 51.1,
+      "total_return_pct": 610.59,
+      "max_drawdown_pct": -4.66,
+      "avg_pl_pct": 0.152,
+      "calmar": 130.96,
+      "score": 1903.79
+    },
+    "runner_up": {
+      "tp1": 1.61,
+      "tp2": 3.6,
+      "sl": 1.27,
+      "min_conf": 0.55,
+      "min_body_pct": 0.003,
+      "total_return_pct": 610.59,
+      "score": 1903.79
+    },
+    "n_combos_tested": 144,
+    "n_valid_configs": 78
+  },
+  "ATOMUSDT": {
+    "tp1": 1.61,
+    "tp2": 3.6,
+    "sl": 1.27,
+    "min_conf": 0.5,
+    "min_body_pct": 0.003,
+    "metrics": {
+      "trades": 1037,
+      "winrate_pct": 52.8,
+      "total_return_pct": 173.8,
+      "max_drawdown_pct": -4.68,
+      "avg_pl_pct": 0.099,
+      "calmar": 37.16,
+      "score": 524.13
+    },
+    "runner_up": {
+      "tp1": 1.61,
+      "tp2": 3.6,
+      "sl": 1.27,
+      "min_conf": 0.55,
+      "min_body_pct": 0.003,
+      "total_return_pct": 173.8,
+      "score": 524.13
+    },
+    "n_combos_tested": 144,
+    "n_valid_configs": 72
+  },
+  "AVAXUSDT": {
+    "tp1": 1.61,
+    "tp2": 3.6,
+    "sl": 1.27,
+    "min_conf": 0.5,
+    "min_body_pct": 0.003,
+    "metrics": {
+      "trades": 1160,
+      "winrate_pct": 51.1,
+      "total_return_pct": 203.78,
+      "max_drawdown_pct": -6.79,
+      "avg_pl_pct": 0.097,
+      "calmar": 30.03,
+      "score": 624.48
+    },
+    "runner_up": {
+      "tp1": 1.61,
+      "tp2": 3.6,
+      "sl": 1.27,
+      "min_conf": 0.55,
+      "min_body_pct": 0.003,
+      "total_return_pct": 203.78,
+      "score": 624.48
+    },
+    "n_combos_tested": 144,
+    "n_valid_configs": 63
+  },
+  "BTCUSDT": {
+    "tp1": 1.61,
+    "tp2": 2.5,
+    "sl": 1.27,
+    "min_conf": 0.5,
+    "min_body_pct": 0.003,
+    "metrics": {
+      "trades": 715,
+      "winrate_pct": 55.7,
+      "total_return_pct": 64.47,
+      "max_drawdown_pct": -3.21,
+      "avg_pl_pct": 0.07,
+      "calmar": 20.11,
+      "score": 184.01
+    },
+    "runner_up": {
+      "tp1": 1.61,
+      "tp2": 2.5,
+      "sl": 1.27,
+      "min_conf": 0.55,
+      "min_body_pct": 0.003,
+      "total_return_pct": 64.47,
+      "score": 184.01
+    },
+    "n_combos_tested": 144,
+    "n_valid_configs": 66
+  },
+  "DOGEUSDT": {
+    "tp1": 1.61,
+    "tp2": 3.6,
+    "sl": 1.27,
+    "min_conf": 0.5,
+    "min_body_pct": 0.003,
+    "metrics": {
+      "trades": 986,
+      "winrate_pct": 54.8,
+      "total_return_pct": 291.82,
+      "max_drawdown_pct": -8.18,
+      "avg_pl_pct": 0.14,
+      "calmar": 35.68,
+      "score": 873.67
+    },
+    "runner_up": {
+      "tp1": 1.61,
+      "tp2": 3.6,
+      "sl": 1.27,
+      "min_conf": 0.55,
+      "min_body_pct": 0.003,
+      "total_return_pct": 291.82,
+      "score": 873.67
+    },
+    "n_combos_tested": 144,
+    "n_valid_configs": 81
+  },
+  "ETHUSDT": {
+    "tp1": 1.61,
+    "tp2": 3.6,
+    "sl": 1.27,
+    "min_conf": 0.5,
+    "min_body_pct": 0.003,
+    "metrics": {
+      "trades": 864,
+      "winrate_pct": 54.3,
+      "total_return_pct": 159.38,
+      "max_drawdown_pct": -3.8,
+      "avg_pl_pct": 0.112,
+      "calmar": 41.89,
+      "score": 468.02
+    },
+    "runner_up": {
+      "tp1": 1.61,
+      "tp2": 3.6,
+      "sl": 1.27,
+      "min_conf": 0.55,
+      "min_body_pct": 0.003,
+      "total_return_pct": 159.38,
+      "score": 468.02
+    },
+    "n_combos_tested": 144,
+    "n_valid_configs": 66
+  },
+  "FETUSDT": {
+    "tp1": 1.61,
+    "tp2": 3.6,
+    "sl": 1.27,
+    "min_conf": 0.5,
+    "min_body_pct": 0.003,
+    "metrics": {
+      "trades": 1350,
+      "winrate_pct": 51.0,
+      "total_return_pct": 902.38,
+      "max_drawdown_pct": -5.74,
+      "avg_pl_pct": 0.174,
+      "calmar": 157.11,
+      "score": 2824.76
+    },
+    "runner_up": {
+      "tp1": 1.61,
+      "tp2": 3.6,
+      "sl": 1.27,
+      "min_conf": 0.55,
+      "min_body_pct": 0.003,
+      "total_return_pct": 902.38,
+      "score": 2824.76
+    },
+    "n_combos_tested": 144,
+    "n_valid_configs": 102
+  },
+  "INJUSDT": {
+    "tp1": 1.61,
+    "tp2": 3.6,
+    "sl": 1.27,
+    "min_conf": 0.5,
+    "min_body_pct": 0.005,
+    "metrics": {
+      "trades": 796,
+      "winrate_pct": 49.6,
+      "total_return_pct": 210.53,
+      "max_drawdown_pct": -15.55,
+      "avg_pl_pct": 0.146,
+      "calmar": 13.54,
+      "score": 610.73
+    },
+    "runner_up": {
+      "tp1": 1.61,
+      "tp2": 3.6,
+      "sl": 1.27,
+      "min_conf": 0.55,
+      "min_body_pct": 0.005,
+      "total_return_pct": 210.53,
+      "score": 610.73
+    },
+    "n_combos_tested": 144,
+    "n_valid_configs": 39
+  },
+  "LINKUSDT": {
+    "tp1": 1.61,
+    "tp2": 3.6,
+    "sl": 1.27,
+    "min_conf": 0.5,
+    "min_body_pct": 0.003,
+    "metrics": {
+      "trades": 1118,
+      "winrate_pct": 51.1,
+      "total_return_pct": 204.82,
+      "max_drawdown_pct": -5.15,
+      "avg_pl_pct": 0.101,
+      "calmar": 39.75,
+      "score": 624.37
+    },
+    "runner_up": {
+      "tp1": 1.61,
+      "tp2": 3.6,
+      "sl": 1.27,
+      "min_conf": 0.55,
+      "min_body_pct": 0.003,
+      "total_return_pct": 204.82,
+      "score": 624.37
+    },
+    "n_combos_tested": 144,
+    "n_valid_configs": 63
+  },
+  "NEARUSDT": {
+    "tp1": 1.61,
+    "tp2": 3.6,
+    "sl": 1.27,
+    "min_conf": 0.5,
+    "min_body_pct": 0.005,
+    "metrics": {
+      "trades": 866,
+      "winrate_pct": 48.8,
+      "total_return_pct": 168.13,
+      "max_drawdown_pct": -13.93,
+      "avg_pl_pct": 0.117,
+      "calmar": 12.07,
+      "score": 493.89
+    },
+    "runner_up": {
+      "tp1": 1.61,
+      "tp2": 3.6,
+      "sl": 1.27,
+      "min_conf": 0.55,
+      "min_body_pct": 0.005,
+      "total_return_pct": 168.13,
+      "score": 493.89
+    },
+    "n_combos_tested": 144,
+    "n_valid_configs": 30
+  },
+  "OPUSDT": {
+    "tp1": 1.61,
+    "tp2": 3.6,
+    "sl": 1.27,
+    "min_conf": 0.5,
+    "min_body_pct": 0.002,
+    "metrics": {
+      "trades": 1470,
+      "winrate_pct": 50.3,
+      "total_return_pct": 763.29,
+      "max_drawdown_pct": -12.69,
+      "avg_pl_pct": 0.149,
+      "calmar": 60.17,
+      "score": 2417.57
+    },
+    "runner_up": {
+      "tp1": 1.61,
+      "tp2": 3.6,
+      "sl": 1.27,
+      "min_conf": 0.55,
+      "min_body_pct": 0.002,
+      "total_return_pct": 763.29,
+      "score": 2417.57
+    },
+    "n_combos_tested": 144,
+    "n_valid_configs": 75
+  },
+  "POLUSDT": {
+    "tp1": 1.61,
+    "tp2": 3.6,
+    "sl": 1.27,
+    "min_conf": 0.5,
+    "min_body_pct": 0.003,
+    "metrics": {
+      "trades": 1124,
+      "winrate_pct": 55.1,
+      "total_return_pct": 319.51,
+      "max_drawdown_pct": -3.83,
+      "avg_pl_pct": 0.129,
+      "calmar": 83.49,
+      "score": 974.76
+    },
+    "runner_up": {
+      "tp1": 1.61,
+      "tp2": 3.6,
+      "sl": 1.27,
+      "min_conf": 0.55,
+      "min_body_pct": 0.003,
+      "total_return_pct": 319.51,
+      "score": 974.76
+    },
+    "n_combos_tested": 144,
+    "n_valid_configs": 93
+  },
+  "SEIUSDT": {
+    "tp1": 1.61,
+    "tp2": 3.6,
+    "sl": 1.27,
+    "min_conf": 0.5,
+    "min_body_pct": 0.003,
+    "metrics": {
+      "trades": 1222,
+      "winrate_pct": 51.1,
+      "total_return_pct": 467.04,
+      "max_drawdown_pct": -8.0,
+      "avg_pl_pct": 0.144,
+      "calmar": 58.35,
+      "score": 1441.79
+    },
+    "runner_up": {
+      "tp1": 1.61,
+      "tp2": 3.6,
+      "sl": 1.27,
+      "min_conf": 0.55,
+      "min_body_pct": 0.003,
+      "total_return_pct": 467.04,
+      "score": 1441.79
+    },
+    "n_combos_tested": 144,
+    "n_valid_configs": 93
+  },
+  "SOLUSDT": {
+    "tp1": 1.61,
+    "tp2": 3.6,
+    "sl": 1.27,
+    "min_conf": 0.5,
+    "min_body_pct": 0.003,
+    "metrics": {
+      "trades": 948,
+      "winrate_pct": 54.9,
+      "total_return_pct": 268.44,
+      "max_drawdown_pct": -4.48,
+      "avg_pl_pct": 0.139,
+      "calmar": 59.89,
+      "score": 799.1
+    },
+    "runner_up": {
+      "tp1": 1.61,
+      "tp2": 3.6,
+      "sl": 1.27,
+      "min_conf": 0.55,
+      "min_body_pct": 0.003,
+      "total_return_pct": 268.44,
+      "score": 799.1
+    },
+    "n_combos_tested": 144,
+    "n_valid_configs": 75
+  },
+  "SUIUSDT": {
+    "tp1": 1.61,
+    "tp2": 3.6,
+    "sl": 1.27,
+    "min_conf": 0.5,
+    "min_body_pct": 0.003,
+    "metrics": {
+      "trades": 1103,
+      "winrate_pct": 51.3,
+      "total_return_pct": 484.81,
+      "max_drawdown_pct": -4.72,
+      "avg_pl_pct": 0.163,
+      "calmar": 102.74,
+      "score": 1475.08
+    },
+    "runner_up": {
+      "tp1": 1.61,
+      "tp2": 3.6,
+      "sl": 1.27,
+      "min_conf": 0.55,
+      "min_body_pct": 0.003,
+      "total_return_pct": 484.81,
+      "score": 1475.08
+    },
+    "n_combos_tested": 144,
+    "n_valid_configs": 75
+  },
+  "XRPUSDT": {
+    "tp1": 1.61,
+    "tp2": 3.6,
+    "sl": 1.27,
+    "min_conf": 0.5,
+    "min_body_pct": 0.003,
+    "metrics": {
+      "trades": 832,
+      "winrate_pct": 54.3,
+      "total_return_pct": 145.81,
+      "max_drawdown_pct": -2.64,
+      "avg_pl_pct": 0.11,
+      "calmar": 55.29,
+      "score": 425.79
+    },
+    "runner_up": {
+      "tp1": 1.61,
+      "tp2": 2.5,
+      "sl": 1.27,
+      "min_conf": 0.5,
+      "min_body_pct": 0.003,
+      "total_return_pct": 140.74,
+      "score": 410.97
+    },
+    "n_combos_tested": 144,
+    "n_valid_configs": 76
+  }
+}
